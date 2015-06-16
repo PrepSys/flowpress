@@ -95,6 +95,7 @@ mrt:googlemaps@0.1.1
 mrt:moment@2.8.1
 multiply:iron-router-progress@1.0.1
 natestrauser:animate-css@3.2.6
+nimble:restivus@0.6.6
 notifications@0.0.7
 npm-bcrypt@0.7.8_2
 oauth@1.1.4

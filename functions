@@ -1,0 +1,19 @@
+var createCollection = (function() {
+    var createNew = 'new ObjectId';
+    var name = '';
+    var setNewNameOf = (function() {
+        db.createCollection(<name>/*, { capped: <boolean>,
+                              autoIndexId: <boolean>,
+                              size: <number>,
+                              max: <number>,
+                              storageEngine: <document>*/
+                            } )
+        
+    
+    
+    };
+      
+        createNew.name.ofCollection = setNewNameOf;
+                        
+                        console.log("new collection create" + name);
+});
